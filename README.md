@@ -22,7 +22,7 @@ This is a Java-based console application that determines whether a driver should
 | Road Type       | Speed Limit (km/h) | Fine Rate per km/h Exceeded |
 |-----------------|--------------------|-----------------------------|
 | Residential Zone| 30                 | $5 per km/h                 |
-| Urban Road      | 50                 | $10 per km/h                |
+| School Zone     | 50                 | $10 per km/h                |
 | Highway         | 100                | $2 per km/h                 |
 
 > ⚠️ If your speed exceeds the limit for the selected road type, you will be fined based on the rate per km/h exceeded.
