@@ -31,5 +31,5 @@ This is a Java-based console application that determines whether a driver should
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/speeding-ticket-system.git
+   git clone https://github.com/santty1906/speeding-ticket-system.git
    cd speeding-ticket-system
