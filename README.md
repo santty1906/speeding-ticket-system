@@ -26,10 +26,3 @@ This is a Java-based console application that determines whether a driver should
 | Highway         | 100                | $2 per km/h                 |
 
 > ⚠️ If your speed exceeds the limit for the selected road type, you will be fined based on the rate per km/h exceeded.
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/santty1906/speeding-ticket-system.git
-   cd speeding-ticket-system
