@@ -1,6 +1,6 @@
 # 🚓 Speeding Ticket System
 
-This is a Java-based console application that determines whether a driver should receive a speeding ticket based on the type of road and their current speed.
+This is a project done as a university assignment. This is a Java-based console application that determines whether a driver should receive a speeding ticket based on the type of road and their current speed.
 
 ## 📋 Features
 
